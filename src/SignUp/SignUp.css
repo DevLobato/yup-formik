@@ -1,0 +1,22 @@
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+input {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 10px;
+    color: red;
+    font-size: 0.5rem;
+}
+
+button {
+    text-align: center;
+}
